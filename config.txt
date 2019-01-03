@@ -1,5 +1,5 @@
 token=NTI5NDY0NjkyMDYyNTUyMDc0.DwxPiQ.ztUCvwzl8qQxp-wvrNJeDTC-EUI
-owner=513378178862022686 
+owner=384697784609013760
 prefix=4
 game= { FM }
 stayinchannel=true
